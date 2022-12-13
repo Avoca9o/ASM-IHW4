@@ -1,0 +1,63 @@
+input format: "<number of readers> <number of writers>"
+3 3
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+writer 1 started his work with db
+WRITER 1 CHANGED 8TH ELEMENT IN DATABASE FROM 8 TO 17
+database was also sorted
+reader 1 started his work with db
+writer 1 finished his work with db
+reader 3 started his work with db
+READER 1 READ 1TH ELEMENT. IT IS 1
+reader 1 finished his work with db
+READER 3 READ 11TH ELEMENT. IT IS 17
+reader 3 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 7TH ELEMENT IN DATABASE FROM 7 TO 17
+database was also sorted
+writer 3 finished his work with db
+reader 2 started his work with db
+READER 2 READ 5TH ELEMENT. IT IS 5
+writer 2 started his work with db
+WRITER 2 CHANGED 3TH ELEMENT IN DATABASE FROM 3 TO 9
+database was also sorted
+reader 2 finished his work with db
+writer 2 finished his work with db
+
+
+new database: 
+1 2 4 5 6 9 9 10 11 17 17
+
+---------------------------------------------------------------
+
+input format: "<number of readers> <number of writers>"
+3 3  
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+writer 2 started his work with db
+WRITER 2 CHANGED 7TH ELEMENT IN DATABASE FROM 7 TO 18
+database was also sorted
+writer 2 finished his work with db
+reader 3 started his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 9TH ELEMENT IN DATABASE FROM 10 TO 5
+database was also sorted
+READER 3 READ 6TH ELEMENT. IT IS 5
+reader 3 finished his work with db
+writer 1 finished his work with db
+reader 2 started his work with db
+reader 1 started his work with db
+READER 2 READ 6TH ELEMENT. IT IS 5
+READER 1 READ 3TH ELEMENT. IT IS 3
+reader 1 finished his work with db
+reader 2 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 6TH ELEMENT IN DATABASE FROM 5 TO 6
+database was also sorted
+writer 3 finished his work with db
+
+
+new database: 
+1 2 3 4 5 6 6 8 9 11 18 
