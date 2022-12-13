@@ -1,0 +1,200 @@
+random numbers was generated
+number of readers: 4
+number of writers: 1
+
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+reader 1 started his work with db
+READER 1 READ 9TH ELEMENT. IT IS 9
+reader 4 started his work with db
+READER 4 READ 6TH ELEMENT. IT IS 6
+reader 1 finished his work with db
+reader 4 finished his work with db
+reader 2 started his work with db
+READER 2 READ 6TH ELEMENT. IT IS 6
+reader 2 finished his work with db
+reader 3 started his work with db
+READER 3 READ 1TH ELEMENT. IT IS 1
+reader 3 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 9TH ELEMENT IN DATABASE FROM 9 TO 9
+database was also sorted
+writer 1 finished his work with db
+
+
+new database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+------------------------------------------------------------
+
+random numbers was generated
+number of readers: 3
+number of writers: 0
+
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+reader 3 started his work with db
+READER 3 READ 7TH ELEMENT. IT IS 7
+reader 3 finished his work with db
+reader 1 started his work with db
+READER 1 READ 7TH ELEMENT. IT IS 7
+reader 1 finished his work with db
+reader 2 started his work with db
+READER 2 READ 8TH ELEMENT. IT IS 8
+reader 2 finished his work with db
+
+
+new database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+------------------------------------------------------------
+
+random numbers was generated
+number of readers: 0
+number of writers: 8
+
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+writer 7 started his work with db
+WRITER 7 CHANGED 7TH ELEMENT IN DATABASE FROM 7 TO 14
+database was also sorted
+writer 7 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 8TH ELEMENT IN DATABASE FROM 9 TO 8
+database was also sorted
+writer 3 finished his work with db
+writer 2 started his work with db
+WRITER 2 CHANGED 6TH ELEMENT IN DATABASE FROM 6 TO 15
+database was also sorted
+writer 2 finished his work with db
+writer 4 started his work with db
+WRITER 4 CHANGED 1TH ELEMENT IN DATABASE FROM 1 TO 14
+database was also sorted
+writer 4 finished his work with db
+writer 5 started his work with db
+WRITER 5 CHANGED 1TH ELEMENT IN DATABASE FROM 2 TO 14
+database was also sorted
+writer 5 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 10TH ELEMENT IN DATABASE FROM 14 TO 10
+database was also sorted
+writer 1 finished his work with db
+writer 8 started his work with db
+WRITER 8 CHANGED 7TH ELEMENT IN DATABASE FROM 10 TO 14
+database was also sorted
+writer 8 finished his work with db
+writer 6 started his work with db
+WRITER 6 CHANGED 7TH ELEMENT IN DATABASE FROM 11 TO 15
+database was also sorted
+writer 6 finished his work with db
+
+
+new database: 
+3 4 5 8 8 10 14 14 14 15 15 
+
+------------------------------------------------------------
+
+random numbers was generated
+number of readers: 9
+number of writers: 6
+
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+reader 3 started his work with db
+READER 3 READ 7TH ELEMENT. IT IS 7
+reader 3 finished his work with db
+reader 9 started his work with db
+READER 9 READ 11TH ELEMENT. IT IS 11
+reader 9 finished his work with db
+writer 4 started his work with db
+WRITER 4 CHANGED 6TH ELEMENT IN DATABASE FROM 6 TO 14
+database was also sorted
+writer 4 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 7TH ELEMENT IN DATABASE FROM 8 TO 18
+database was also sorted
+writer 3 finished his work with db
+writer 5 started his work with db
+WRITER 5 CHANGED 9TH ELEMENT IN DATABASE FROM 11 TO 9
+database was also sorted
+writer 5 finished his work with db
+reader 7 started his work with db
+reader 5 started his work with db
+reader 8 started his work with db
+reader 2 started his work with db
+reader 1 started his work with db
+READER 5 READ 1TH ELEMENT. IT IS 1
+READER 8 READ 4TH ELEMENT. IT IS 4
+reader 8 finished his work with db
+reader 4 started his work with db
+READER 7 READ 11TH ELEMENT. IT IS 18
+reader 7 finished his work with db
+READER 2 READ 1TH ELEMENT. IT IS 1
+READER 1 READ 7TH ELEMENT. IT IS 9
+reader 5 finished his work with db
+reader 2 finished his work with db
+reader 6 started his work with db
+reader 1 finished his work with db
+READER 4 READ 6TH ELEMENT. IT IS 7
+reader 4 finished his work with db
+READER 6 READ 10TH ELEMENT. IT IS 14
+reader 6 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 3TH ELEMENT IN DATABASE FROM 3 TO 4
+database was also sorted
+writer 1 finished his work with db
+writer 6 started his work with db
+WRITER 6 CHANGED 5TH ELEMENT IN DATABASE FROM 5 TO 10
+database was also sorted
+writer 6 finished his work with db
+writer 2 started his work with db
+WRITER 2 CHANGED 1TH ELEMENT IN DATABASE FROM 1 TO 12
+database was also sorted
+writer 2 finished his work with db
+
+
+new database: 
+2 4 4 7 9 9 10 10 12 14 18 
+
+------------------------------------------------------------
+
+random numbers was generated
+number of readers: 5
+number of writers: 2
+
+initial database: 
+1 2 3 4 5 6 7 8 9 10 11 
+
+writer 2 started his work with db
+WRITER 2 CHANGED 11TH ELEMENT IN DATABASE FROM 11 TO 2
+database was also sorted
+writer 2 finished his work with db
+reader 5 started his work with db
+READER 5 READ 10TH ELEMENT. IT IS 9
+reader 1 started his work with db
+reader 5 finished his work with db
+READER 1 READ 5TH ELEMENT. IT IS 4
+reader 1 finished his work with db
+reader 3 started his work with db
+reader 4 started his work with db
+READER 4 READ 11TH ELEMENT. IT IS 10
+READER 3 READ 7TH ELEMENT. IT IS 6
+reader 3 finished his work with db
+reader 4 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 1TH ELEMENT IN DATABASE FROM 1 TO 13
+database was also sorted
+writer 1 finished his work with db
+reader 2 started his work with db
+READER 2 READ 10TH ELEMENT. IT IS 10
+reader 2 finished his work with db
+
+
+new database: 
+2 2 3 4 5 6 7 8 9 10 13 
+
+

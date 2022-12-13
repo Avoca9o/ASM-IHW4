@@ -1,0 +1,118 @@
+writer 3 started his work with db
+WRITER 3 CHANGED 8TH ELEMENT IN DATABASE FROM 0 TO 11
+database was also sorted
+writer 3 finished his work with db
+reader 1 started his work with db
+READER 1 READ 11TH ELEMENT. IT IS 11
+reader 3 started his work with db
+reader 1 finished his work with db
+READER 3 READ 3TH ELEMENT. IT IS 0
+reader 3 finished his work with db
+writer 2 started his work with db
+WRITER 2 CHANGED 2TH ELEMENT IN DATABASE FROM 0 TO 9
+database was also sorted
+writer 2 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 4TH ELEMENT IN DATABASE FROM 0 TO 7
+database was also sorted
+writer 1 finished his work with db
+reader 2 started his work with db
+READER 2 READ 11TH ELEMENT. IT IS 11
+reader 2 finished his work with db
+
+-------------------------------------------------------------------------------------------------------
+
+writer 1 started his work with db
+WRITER 1 CHANGED 2TH ELEMENT IN DATABASE FROM 0 TO 11
+database was also sorted
+writer 1 finished his work with db
+reader 1 started his work with db
+READER 1 READ 10TH ELEMENT. IT IS 0
+reader 1 finished his work with db
+reader 2 started his work with db
+reader 3 started his work with db
+READER 3 READ 10TH ELEMENT. IT IS 0
+READER 2 READ 1TH ELEMENT. IT IS 0
+reader 2 finished his work with db
+reader 3 finished his work with db
+writer 2 started his work with db
+WRITER 2 CHANGED 10TH ELEMENT IN DATABASE FROM 0 TO 0
+database was also sorted
+writer 2 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 1TH ELEMENT IN DATABASE FROM 0 TO 14
+database was also sorted
+writer 3 finished his work with db
+
+-------------------------------------------------------------------------------------------------------
+
+writer 2 started his work with db
+WRITER 2 CHANGED 3TH ELEMENT IN DATABASE FROM 0 TO 5
+database was also sorted
+writer 2 finished his work with db
+reader 1 started his work with db
+READER 1 READ 6TH ELEMENT. IT IS 0
+reader 1 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 4TH ELEMENT IN DATABASE FROM 0 TO 3
+database was also sorted
+writer 3 finished his work with db
+reader 2 started his work with db
+READER 2 READ 11TH ELEMENT. IT IS 5
+reader 3 started his work with db
+reader 2 finished his work with db
+READER 3 READ 5TH ELEMENT. IT IS 0
+reader 3 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 1TH ELEMENT IN DATABASE FROM 0 TO 12
+database was also sorted
+writer 1 finished his work with db
+
+-------------------------------------------------------------------------------------------------------
+
+reader 3 started his work with db
+reader 2 started his work with db
+READER 3 READ 9TH ELEMENT. IT IS 9
+reader 3 finished his work with db
+READER 2 READ 4TH ELEMENT. IT IS 4
+reader 2 finished his work with db
+reader 1 started his work with db
+READER 1 READ 2TH ELEMENT. IT IS 2
+reader 1 finished his work with db
+writer 3 started his work with db
+WRITER 3 CHANGED 3TH ELEMENT IN DATABASE FROM 3 TO 17
+database was also sorted
+writer 3 finished his work with db
+writer 2 started his work with db
+WRITER 2 CHANGED 6TH ELEMENT IN DATABASE FROM 7 TO 11
+database was also sorted
+writer 2 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 2TH ELEMENT IN DATABASE FROM 2 TO 14
+database was also sorted
+writer 1 finished his work with db
+
+-------------------------------------------------------------------------------------------------------
+
+writer 3 started his work with db
+WRITER 3 CHANGED 6TH ELEMENT IN DATABASE FROM 6 TO 5
+database was also sorted
+writer 3 finished his work with db
+reader 3 started his work with db
+READER 3 READ 3TH ELEMENT. IT IS 3
+reader 3 finished his work with db
+writer 1 started his work with db
+WRITER 1 CHANGED 11TH ELEMENT IN DATABASE FROM 11 TO 19
+database was also sorted
+writer 1 finished his work with db
+reader 2 started his work with db
+READER 2 READ 7TH ELEMENT. IT IS 7
+reader 2 finished his work with db
+writer 2 started his work with db
+WRITER 2 CHANGED 4TH ELEMENT IN DATABASE FROM 4 TO 13
+database was also sorted
+writer 2 finished his work with db
+reader 1 started his work with db
+READER 1 READ 5TH ELEMENT. IT IS 5
+reader 1 finished his work with db
+
